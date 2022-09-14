@@ -6,7 +6,8 @@
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.System.Activities": "[22.4.4]",
     "UiPath.Testing.Activities": "[22.4.3]",
-    "UiPath.UIAutomation.Activities": "[22.4.7]"
+    "UiPath.UIAutomation.Activities": "[22.4.7]",
+    "UiPath.WebAPI.Activities": "[1.11.2]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -82,9 +83,15 @@
         "testCaseId": "a62992a8-774b-4108-8596-ae558d9b59c9",
         "testCaseType": "TestCase",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "234ae51f-dcaa-4385-9707-6e0b6d20e9f7",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase\\TestCase_API_CreateURLforGetRequest.xaml"
       }
     ],
-    "modernBehavior": true
+    "modernBehavior": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [

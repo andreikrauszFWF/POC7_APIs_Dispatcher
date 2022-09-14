@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qwVlN3j6QK9j6P9wmlt0UPoiGfg9BdAx5tLag6RnwEwsy3HdNpnWoC5wv2U9BBXiaVp/FLDFikDoZWt10foTiQ==",
+  "dgSpecHash": "q47L0jAdjJYBN1/p3R9PpUSJaEKkR8pKbjOy49wowuV5FNVc82wMOlbzzDobZI+EufihnJgJITyii/CAF3cnqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AndreiKrausz\\Documents\\UiPath\\POC7_APIs_Dispatcher\\.local\\",
+  "projectFilePath": "C:\\Users\\AndreiKrausz\\Documents\\GitHub\\POC7_APIs_Dispatcher\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\AndreiKrausz\\.nuget\\packages\\avalonedit\\6.0.1\\avalonedit.6.0.1.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
@@ -42,6 +43,7 @@
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\npoi\\2.5.5\\npoi.2.5.5.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\AndreiKrausz\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
@@ -71,7 +73,8 @@
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.testing.activities\\22.4.3\\uipath.testing.activities.22.4.3.nupkg.sha512",
     "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.7\\uipath.uiautomation.activities.22.4.7.nupkg.sha512",
-    "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.vision\\3.3.0\\uipath.vision.3.3.0.nupkg.sha512"
+    "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.vision\\3.3.0\\uipath.vision.3.3.0.nupkg.sha512",
+    "C:\\Users\\AndreiKrausz\\.nuget\\packages\\uipath.webapi.activities\\1.11.2\\uipath.webapi.activities.1.11.2.nupkg.sha512"
   ],
   "logs": []
 }
