@@ -89,6 +89,18 @@
         "testCaseId": "234ae51f-dcaa-4385-9707-6e0b6d20e9f7",
         "testCaseType": "TestCase",
         "fileName": "Tests\\TestCase\\TestCase_API_CreateURLforGetRequest.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6125a337-9522-416d-a04b-425a1a0c8bb9",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase\\TestCase_SelectRelevantInformations.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c02d6437-2e9e-473c-89a7-13e33eed1516",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\TestCase\\TestCase_Orchestrator_AddInformationsToQueue.xaml"
       }
     ],
     "modernBehavior": false
